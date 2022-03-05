@@ -20,7 +20,9 @@ Y<- rnorm( 100)
 hist( Y)
 ```
 
+![](Gauss.jpg){width=30%}
 
+Gauss was a German mathematician and physicist who made massive contributions to both fields before dying in 1855.
 
 
 
