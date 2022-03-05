@@ -1,0 +1,29 @@
+---
+title: "Gaussian Histogram"
+author: "Haley Ann Vinton"
+date: "3/5/2022"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+* Create a short .Rmd  file that plots a histogram of a normal (aka Gaussian) random sample and save this file to your project.
+
++ This is the histogram of the Gaussian random sample.
+
+```{r}
+# sample of size 100
+Y<- rnorm( 100)
+hist( Y)
+```
+
+
+
+
+
+
+
+
